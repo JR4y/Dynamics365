@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_almgit_almtest" />
+  <EntityRelationship Name="lk_almgit_almtest_createdby" />
+  <EntityRelationship Name="lk_almgit_almtest_modifiedby" />
+  <EntityRelationship Name="owner_almgit_almtest" />
+  <EntityRelationship Name="team_almgit_almtest" />
+  <EntityRelationship Name="user_almgit_almtest" />
+</EntityRelationships>
